@@ -36,7 +36,7 @@ CREATE TABLE netflix
     description  VARCHAR(550)
 );
 ```
-## SQL Queries
+## SQL Business Problems with solutions Queries
 ### 1. Count the Number of Movies vs TV Shows
 This query determine the distribution of content types on Netflix.
 ```sql
